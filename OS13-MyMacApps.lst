@@ -1,0 +1,75 @@
+tap "iandol/adobe-fonts"
+tap "oh-my-home/fonts"
+tap "ra3xdh/qucs-s"
+brew "cask"
+#brew "mas"
+brew "neovim"
+#brew "ngspice"
+brew "opencc"
+brew "python@3.12"
+brew "wget"
+brew "zsh"
+brew "zsh-autosuggestions"
+cask "adobe-connect"
+cask "affinity"
+cask "aldente"
+cask "applite"
+cask "arduino-ide"
+cask "blender"
+cask "brewtarget"
+cask "calibre"
+cask "capcut"
+cask "font-fira-code-nerd-font"
+cask "font-lxgw-wenkai"
+cask "font-sarasa-gothic"
+cask "font-sauce-code-pro-nerd-font"
+cask "font-source-code-pro"
+cask "font-source-han-sans-vf"
+cask "freecad"
+cask "iterm2"
+cask "menumeters"
+cask "openboardview"
+cask "otf-inter"
+cask "otf-merriweather"
+cask "otf-source-han-sans-j"
+cask "otf-source-han-sans-k"
+cask "otf-source-han-sans-sc"
+cask "otf-source-han-sans-tc"
+cask "otf-source-han-serif-j"
+cask "otf-source-han-serif-k"
+cask "otf-source-han-serif-sc"
+cask "otf-source-han-serif-tc"
+cask "pycharm"
+cask "qucs-s"
+cask "sigil"
+cask "sublime-text"
+cask "textmate"
+cask "thonny"
+cask "ttc-source-han-sans"
+cask "ttc-source-han-serif"
+cask "ttf-inter-v"
+cask "ttf-inter-variable"
+cask "ttf-merriweather"
+cask "ttf-merriweather-variable"
+cask "ttf-noto-color-emoji"
+cask "vimr"
+#mas "BBEdit", id: 404009241
+#mas "Bear", id: 1091189122
+#mas "Blackmagic Disk Speed Test", id: 425264550
+#mas "Canva", id: 897446215
+#mas "Cuprum", id: 1088670425
+#mas "HiView", id: 1599180804
+#mas "LINE", id: 539883307
+#mas "Logic Pro", id: 634148309
+#mas "Microsoft Excel", id: 462058435
+#mas "Moped", id: 1477419086
+#mas "Numbers", id: 409203825
+#mas "OmniPlayer", id: 1470926410
+#mas "Pages", id: 409201541
+#mas "PasteNow", id: 1552536109
+#mas "PDFgear", id: 6469021132
+#mas "PhotoScape X", id: 929507092
+#mas "Snip", id: 1178539865
+#mas "State", id: 1472818562
+#mas "Unzip - RAR ZIP 7Z Unarchiver", id: 1537056818
+#mas "Wondershare Filmora 14", id: 1516822341
